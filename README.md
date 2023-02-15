@@ -20,4 +20,13 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 ## Prepare
 ### Issues
 * April dates in dailyActivity_merged are not recognised as dates in the CSV files
-* The dailyActivity_merged file is the only file with over 
+* The dailyActivity_merged file is the only file with over 30 
+
+![image](https://user-images.githubusercontent.com/70644015/219110913-4ea6c556-5ee8-4d74-838e-f3c4cee6296f.png)
+
+
+## Share
+
+The bar chart below was created using Tableau. This tells us users logged onto the app the most during the week, with a noticable decrease from Friday to Monday. 
+
+![image](https://user-images.githubusercontent.com/70644015/219111957-abe84eed-63be-41e9-8d07-8d5e4e093338.png)
