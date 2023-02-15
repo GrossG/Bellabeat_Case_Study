@@ -19,6 +19,5 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 
 ## Prepare
 ### Issues
-* April has the MM/DD/YY date format, while the rest of the dates are DD/MM/YY
-* heartrate_seconds_merged, minuteIntensitiesNarrow_merged, minuteCaloriesNarrow_merged, minuteMETsNarrow_merged, minuteStepsWide_merged files too big for Excel
-*  
+* April dates in dailyActivity_merged are not recognised as dates in the CSV files
+* The dailyActivity_merged file is the only file with over 
