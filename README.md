@@ -30,3 +30,8 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 The bar chart below was created using Tableau. This tells us users logged onto the app the most during the week, with a noticable decrease from Friday to Monday. 
 
 ![image](https://user-images.githubusercontent.com/70644015/219111957-abe84eed-63be-41e9-8d07-8d5e4e093338.png)
+
+Although 10,000 steps a day is recommended, most users' medians have fallen under that mark, with a total median for the users being just under 8,000 steps.
+
+![image](https://user-images.githubusercontent.com/70644015/219617032-654ee6de-81d9-4e12-bf2f-f79a7c0847f8.png)
+
