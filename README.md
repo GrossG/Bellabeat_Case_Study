@@ -28,7 +28,7 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 * Some files were far too large to analyse and clean by Excel. Therefore, BigQuery SQL was used.
 * When trying to upload into Big Query, there was an error with dailyActivity_merged, as all dates could not be parsed as a TIMESTAMP.
 * After some research, this problem was solved by changing the format of the ActivityDate column.
-* To get  
+* To get visuals onto for the Share part of this project, the CSV file was uploaded onto Tableau. 
 
 ### Issues
 * April dates in dailyActivity_merged are not recognised as dates in the CSV files, causing an issue when uploading it to BigQuery. 
