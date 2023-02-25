@@ -24,11 +24,23 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 * This data was collected via survey between 3 December 2016 and 5 December 2016 and undertaken by Amazon Mechanical Turk. 
 
 ## Process
+### Upload
 * I downloaded the above data from Kaggle onto my computer; the 18 CSV files.
 * Some files were far too large to analyse and clean by Excel. Therefore, BigQuery SQL was used.
+* To get visuals onto for the Share part of this project, the dailyActivity_merged CSV file was uploaded onto Tableau. 
+
+### Clean
 * When trying to upload into Big Query, there was an error with dailyActivity_merged, as all dates could not be parsed as a TIMESTAMP.
 * After some research, this problem was solved by changing the format of the ActivityDate column.
-* To get visuals onto for the Share part of this project, the CSV file was uploaded onto Tableau. 
+* Checking for NULLs in dailyActivity_merged:
+
+![image](https://user-images.githubusercontent.com/70644015/221353831-857a78f6-f86c-4995-9679-a6bb426d219c.png)
+
+* Checking numerical values to see if any were less than zero was checked by data filtering in Excel
+
+![image](https://user-images.githubusercontent.com/70644015/221354311-bb4c7b80-425b-45bd-9e84-974c5225446b.png)
+
+
 
 ### Issues
 * April dates in dailyActivity_merged are not recognised as dates in the CSV files, causing an issue when uploading it to BigQuery. 
