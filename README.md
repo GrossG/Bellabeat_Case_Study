@@ -40,6 +40,9 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 
 ![image](https://user-images.githubusercontent.com/70644015/221354356-e69bd06c-3e85-4c50-bf3e-165fc30fd571.png)
 
+* To provide an analysis of the weekdays, a new column needed to be derived from the dates provided. This was done using the TEXT() function on Excel.  
+
+![image](https://user-images.githubusercontent.com/70644015/221354578-00db189c-7bc0-49f3-9298-a89fa78fbff0.png)
 
 
 ### Issues
