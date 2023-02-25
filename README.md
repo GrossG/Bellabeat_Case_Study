@@ -38,7 +38,7 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 
 * Checking numerical values to see if any were less than zero was checked by data filtering in Excel
 
-![image](https://user-images.githubusercontent.com/70644015/221354311-bb4c7b80-425b-45bd-9e84-974c5225446b.png)
+![image](https://user-images.githubusercontent.com/70644015/221354356-e69bd06c-3e85-4c50-bf3e-165fc30fd571.png)
 
 
 
