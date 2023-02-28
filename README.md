@@ -50,8 +50,7 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 
 
 ### Issues
-* April dates in dailyActivity_merged are not recognised as dates in the CSV files, causing an issue when uploading it to BigQuery. 
-* Recorded data is only three days of the year, as opposed to getting a sense of users' activities throughout the calendar year.
+* April dates in dailyActivity_merged are not recognised as dates in the CSV files, causing an issue when uploading it to BigQuery.
 * None of the files have a big enough sample size to provide accurate insights into all FitBit users, with dailyActivity_merged file is the only file with over 30 users
 
 ![image](https://user-images.githubusercontent.com/70644015/219110913-4ea6c556-5ee8-4d74-838e-f3c4cee6296f.png)
