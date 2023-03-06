@@ -48,6 +48,10 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 
 ![image](https://user-images.githubusercontent.com/70644015/221354578-00db189c-7bc0-49f3-9298-a89fa78fbff0.png)
 
+* An extra column was created in the hourlyCalories_merged file in order to split the day between morning, afternoon and evening
+
+![image](https://user-images.githubusercontent.com/70644015/223092786-8cb27a4f-870f-465e-b370-bf8091b43d13.png)
+
 
 ### Issues
 * April dates in dailyActivity_merged are not recognised as dates in the CSV files, causing an issue when uploading it to BigQuery.
