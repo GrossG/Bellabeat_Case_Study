@@ -24,8 +24,20 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 * This data was collected via survey between 3 December 2016 and 5 December 2016 and undertaken by Amazon Mechanical Turk. 
 
 ### Is the data ROCC
-* Reliability? Low, as the respondent number was too low
+#### Reliability 
+*   Low; the file with the highest number of respondents had 33
 
+#### Original
+*   No; the data was recorded by Amazon Mechanical Turk
+
+#### Comprehensive
+*   Medium; there is insightful information, but spread among a number of files
+
+#### Current
+*   No; the data is over 6 years old
+
+#### Cited
+*   No; the data is taken from a third party
 
 ## Process
 ### Upload
