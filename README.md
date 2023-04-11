@@ -46,6 +46,7 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 * To get visuals onto for the Share part of this project, the dailyActivity_merged CSV file was uploaded onto Tableau. 
 
 ### Clean
+#### dailyActivity_merged
 * When trying to upload into Big Query, there was an error with dailyActivity_merged, as all dates could not be parsed as a TIMESTAMP.
 * After some research, this problem was solved by changing the format of the ActivityDate column.
 * Checking for NULLs in dailyActivity_merged:
@@ -67,6 +68,11 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 * An extra column was created in the hourlyCalories_merged file in order to split the day between morning, afternoon and evening
 
 ![image](https://user-images.githubusercontent.com/70644015/223092786-8cb27a4f-870f-465e-b370-bf8091b43d13.png)
+
+#### hourssteps_merged
+* In order to look at he correlation between steps taken and daily calories, the time and the date need to be split. Below, column C was created to take derive the time from the cells in column B via the formula:
+
+![image](https://user-images.githubusercontent.com/70644015/231221659-2f6c34d7-34ae-4366-b4ce-f4db7a2d1d29.png)
 
 
 ### Issues
