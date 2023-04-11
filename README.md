@@ -23,7 +23,7 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 * It is split into 18 Excel spreadsheets, based on different information such as daily activity, calories burnt per hour and steps taken per day. 
 * This data was collected via survey between 3 December 2016 and 5 December 2016 and undertaken by Amazon Mechanical Turk. 
 
-### Is the data ROCC
+### Is the data ROCC?
 #### Reliability 
 *   Low; the file with the highest number of respondents had 33
 
