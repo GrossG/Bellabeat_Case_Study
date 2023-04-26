@@ -92,5 +92,11 @@ The bar chart below was created using Tableau. This tells us users logged onto t
 
 ![image](https://user-images.githubusercontent.com/70644015/219111957-abe84eed-63be-41e9-8d07-8d5e4e093338.png)
 
+Within these days, users logged onto the app mostly at the start of the day, followed by the evening time
 
+![image](https://user-images.githubusercontent.com/70644015/234617798-34afdf96-1dbd-48da-8a29-69befa8fc572.png)
+
+Surprisingly, this usage is consistent throughout the week; users log on more often in the mornings no matter what weekday it is
+
+![image](https://user-images.githubusercontent.com/70644015/234619953-ec16dcfc-be5a-4f57-a747-1ba6fbbe597e.png)
 
