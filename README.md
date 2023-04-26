@@ -100,3 +100,6 @@ Surprisingly, this usage is consistent throughout the week; users log on more of
 
 ![image](https://user-images.githubusercontent.com/70644015/234619953-ec16dcfc-be5a-4f57-a747-1ba6fbbe597e.png)
 
+
+
+## Pie chart dividing type of activity ## 
