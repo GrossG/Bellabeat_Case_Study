@@ -100,6 +100,9 @@ Surprisingly, this usage is consistent throughout the week; users log on more of
 
 ![image](https://user-images.githubusercontent.com/70644015/234619953-ec16dcfc-be5a-4f57-a747-1ba6fbbe597e.png)
 
+Tuesday's log of very active mintues is slightly higher. This is similar across the board
+
+![image](https://github.com/GrossG/Bellabeat_Case_Study/assets/70644015/93eae69a-fcfc-4967-b0f9-5d9d51dda7dc)
 
 
 ## Pie chart dividing type of activity ## 
