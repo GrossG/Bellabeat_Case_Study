@@ -86,6 +86,11 @@ Although 10,000 steps a day is recommended, most users' medians have fallen unde
 
 ![image](https://user-images.githubusercontent.com/70644015/219617032-654ee6de-81d9-4e12-bf2f-f79a7c0847f8.png)
 
+
+
+![image](https://github.com/GrossG/Bellabeat_Case_Study/assets/70644015/8ca88976-f9f3-46a8-957a-73979705c777)
+
+
 ## Share
 
 The bar chart below was created using Tableau. This tells us when users logged onto the app the most during the week, with a noticeably higher portion logging on from Tuesday to Thursday. 
