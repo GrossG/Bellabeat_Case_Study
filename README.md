@@ -95,6 +95,11 @@ When looking at the fairly active and very active categories, there are a couple
 
 According to the [World Health Organisation](https://www.who.int/news-room/fact-sheets/detail/physical-activity), adults should do at least 150–300 fairly active minutes per week (21-43 minutes daily) and at least 75-150 very active minutes per week (11-21 minutes daily) of physical activity. The bar chart below shows respondents on average doing significantly less fairly active minutes than recommended.
 
+![image](https://github.com/GrossG/Bellabeat_Case_Study/assets/70644015/f6c6a946-d761-402f-9da7-3b8397736705)
+
+There's better news with fairly active minutes, with the average being above the recommended minutes.
+
+![image](https://github.com/GrossG/Bellabeat_Case_Study/assets/70644015/9e949be1-995c-4f43-92a5-effe9fd0fa64)
 
 
 
