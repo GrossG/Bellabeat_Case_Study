@@ -70,7 +70,7 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 ![image](https://user-images.githubusercontent.com/70644015/223092786-8cb27a4f-870f-465e-b370-bf8091b43d13.png)
 
 #### hourssteps_merged
-* In order to look at he correlation between steps taken and daily calories, the time and the date need to be split. Below, column C was created to derive the time from the cells in column B via the formula:
+* In order to look at the correlation between steps taken and daily calories, the time and the date need to be split. Below, column C was created to derive the time from the cells in column B via the formula:
 
 ![image](https://user-images.githubusercontent.com/70644015/231221659-2f6c34d7-34ae-4366-b4ce-f4db7a2d1d29.png)
 
