@@ -86,9 +86,17 @@ Although 10,000 steps a day is recommended, most users' medians have fallen unde
 
 ![image](https://user-images.githubusercontent.com/70644015/219617032-654ee6de-81d9-4e12-bf2f-f79a7c0847f8.png)
 
-
+Sedentary minutes at 82% (932k out of 1.1m minutes logged) is by far the highest type of activity.
 
 ![image](https://github.com/GrossG/Bellabeat_Case_Study/assets/70644015/8ca88976-f9f3-46a8-957a-73979705c777)
+
+When looking at the fairly active and very active categories, there are a couple of takeaways.
+
+
+According to the [World Health Organisation](![image](https://github.com/GrossG/Bellabeat_Case_Study/assets/70644015/72324e8c-c8f5-4bf5-bfa8-732bfddfbb1a)), 
+![image](https://github.com/GrossG/Bellabeat_Case_Study/assets/70644015/7d18fa6a-08e4-4ce3-8e22-73b0ea95faf1), adults should do at least 150–300 fairly active minutes per week (21-43 minutes daily) and at least 75-150 very active minutes per week (11-21 minutes daily) of physical activity. The bar chart below shows respondents on average doing significantly less fairly active minutes than recommended.
+
+
 
 
 ## Share
