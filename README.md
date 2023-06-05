@@ -79,7 +79,7 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 * April dates in dailyActivity_merged are not recognised as dates in the CSV files, causing an issue when uploading it to BigQuery.
 * None of the files have a big enough sample size to provide accurate insights into all FitBit users, with dailyActivity_merged file is the only file with over 30 users
 
-![image](https://user-images.githubusercontent.com/70644015/219110913-4ea6c556-5ee8-4d74-838e-f3c4cee6296f.png)
+![image](https://github.com/GrossG/Bellabeat_Case_Study/assets/70644015/82643e97-26b2-4582-af40-25a7474ba48d)
 
 ## Analyse
 Although 10,000 steps a day is recommended, most users' medians have fallen under that mark, with a total median for the users being just under 8,000 steps.
