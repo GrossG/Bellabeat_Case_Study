@@ -55,7 +55,7 @@ To analyse smart device usage data on non-Bellbeat smart devices, from which ins
 
 * Checking other errors for every column. TotalDistance is in the below image, but this was done for every column. No errors came to light.
 
-![image](https://user-images.githubusercontent.com/70644015/221354765-539fcb4b-5a0f-4266-a9e2-8ea7c9ed8471.png)
+![image](https://github.com/GrossG/Bellabeat_Case_Study/assets/70644015/f0161b67-dc32-46d0-8656-b44bec333223)
 
 * Checking numerical values to see if any were less than zero was checked by data filtering in Excel
 
