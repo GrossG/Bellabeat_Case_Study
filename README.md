@@ -88,7 +88,7 @@ Although 10,000 steps a day is recommended, most users' medians have fallen unde
 
 ## Share
 
-The bar chart below was created using Tableau. This tells us users logged onto the app the most during the week, with a noticable decrease from Friday to Monday. 
+The bar chart below was created using Tableau. This tells us when users logged onto the app the most during the week, with a noticalbly more logging on from Tuesday to Thursday. 
 
 ![image](https://user-images.githubusercontent.com/70644015/219111957-abe84eed-63be-41e9-8d07-8d5e4e093338.png)
 
