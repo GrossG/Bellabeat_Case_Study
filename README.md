@@ -98,6 +98,7 @@ According to the [World Health Organisation](https://www.who.int/news-room/fact-
 
 
 
+
 ## Share
 
 The bar chart below was created using Tableau. This tells us when users logged onto the app the most during the week, with a noticeably higher portion logging on from Tuesday to Thursday. 
