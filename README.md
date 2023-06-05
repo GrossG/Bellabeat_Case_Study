@@ -93,8 +93,7 @@ Sedentary minutes at 82% (932k out of 1.1m minutes logged) is by far the highest
 When looking at the fairly active and very active categories, there are a couple of takeaways.
 
 
-According to the [World Health Organisation](![image](https://github.com/GrossG/Bellabeat_Case_Study/assets/70644015/72324e8c-c8f5-4bf5-bfa8-732bfddfbb1a)), 
-![image](https://github.com/GrossG/Bellabeat_Case_Study/assets/70644015/7d18fa6a-08e4-4ce3-8e22-73b0ea95faf1), adults should do at least 150–300 fairly active minutes per week (21-43 minutes daily) and at least 75-150 very active minutes per week (11-21 minutes daily) of physical activity. The bar chart below shows respondents on average doing significantly less fairly active minutes than recommended.
+According to the [World Health Organisation](https://www.who.int/news-room/fact-sheets/detail/physical-activity), adults should do at least 150–300 fairly active minutes per week (21-43 minutes daily) and at least 75-150 very active minutes per week (11-21 minutes daily) of physical activity. The bar chart below shows respondents on average doing significantly less fairly active minutes than recommended.
 
 
 
