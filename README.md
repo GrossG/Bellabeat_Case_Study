@@ -3,7 +3,7 @@
 ## Background
 Bellabeat, a hightech manufacturer of smart health-focused products for women, was founded in 2013 by Urška Sršen and Sando Mur. This technology design was designed by Sršen's background as an artist. 
 
-Bellabeat had devolved a worldwide presence by 2016, and although focusining on digital marketing, has also invested in many traditional avenues of advertisting; radio, billboards, print, and television.
+Bellabeat had devolved a worldwide presence by 2016, and although focusing on digital marketing, has also invested in many traditional avenues of advertisting; radio, billboards, print, and television.
 
 To get to the next level, Sršen knows the importance of utilising available consumer data; asking the marketing analytics team to analyse usage data of their products. High-level recommendations are hoped to come from this, which can shape Bellabeat's marketing strategy. 
 
@@ -92,17 +92,13 @@ Sedentary minutes at 82% (932k out of 1.1m minutes logged) is by far the highest
 
 When looking at the fairly active and very active categories, there are a couple of takeaways.
 
-
 According to the [World Health Organisation](https://www.who.int/news-room/fact-sheets/detail/physical-activity), adults should do at least 150–300 fairly active minutes per week (21-43 minutes daily) and at least 75-150 very active minutes per week (11-21 minutes daily) of physical activity. The bar chart below shows respondents on average doing significantly less fairly active minutes than recommended.
 
 ![image](https://github.com/GrossG/Bellabeat_Case_Study/assets/70644015/f6c6a946-d761-402f-9da7-3b8397736705)
 
-There's better news with fairly active minutes, with the average being above the recommended minutes.
+There's better news with very active minutes, with the average being above the recommended minutes.
 
 ![image](https://github.com/GrossG/Bellabeat_Case_Study/assets/70644015/9e949be1-995c-4f43-92a5-effe9fd0fa64)
-
-
-
 
 ## Share
 
@@ -121,6 +117,28 @@ Surprisingly, this usage is consistent throughout the week; users log on more of
 Consistent with data above, Tuesday's log of very active mintues is slightly higher. This is the same across the board
 
 ![image](https://github.com/GrossG/Bellabeat_Case_Study/assets/70644015/93eae69a-fcfc-4967-b0f9-5d9d51dda7dc)
+
+
+## Act
+
+To provide recommendations to the company the original questions need to be addressed. 
+
+### 1. What are some trends in smart device usage?
+Most activity was midweek, with users logging on in the mornings. 
+
+Tuesdays was the most popular weekday with every activity type across the board i.e. very active, fairly active etcetra.
+
+### 2. How could these trends apply to Bellabeat customers?
+
+These trends can reveal to Bellabeat users what their training habits are and how they compare to what is recommended for those who take their exercise seriously. 
+
+### 3. How could these trends help influence Bellabeat marketing strategy?
+
+Using different avenues of advertising can help keep brand recognition high, but perhaps focusing advertising of print, television and radio between Friday and Monday could encourage increased use of the app in this timeframe. 
+
+### Marketing recommendation:
+
+The data used in this study is unreliable due to the size and lack of recency. Data on more subjects that's up-to-date should be used when driving marketing recommendations. In saying this, the following is based on the data provided for this case study. 
 
 
 
