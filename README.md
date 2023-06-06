@@ -141,4 +141,6 @@ Using different avenues of advertising can help keep brand recognition high, but
 The data used in this study is unreliable due to the size and lack of recency. Data on more subjects that's up-to-date should be used when driving marketing recommendations. In saying this, the following is based on the data provided for this case study. 
 
 
-
+* To address the lack of daily steps and fairly active minutes, the app should post local trails to encourage the users to engage in more hiking and walking; particularly on the weekends. Users can give a start rating out of 5 to motivate users to try out the best trails in their locality. 
+* Subscribers can gift a free month to someone every month. This is basically a free trail but directly recommended from someone you know.
+* To keep current users motivated, a wellbeing survey can be given to them where they rate themselves 1-10. One year later, they answer the same survey. If the results are the same or are worse than the previous year, suggestions can be given.  
