@@ -5,7 +5,7 @@ Bellabeat, a hightech manufacturer of smart health-focused products for women, w
 
 Bellabeat had devolved a worldwide presence by 2016, and although focusing on digital marketing, has also invested in many traditional avenues of advertisting; radio, billboards, print, and television.
 
-To get to the next level, Sršen knows the importance of utilising available consumer data; asking the marketing analytics team to analyse usage data of their products. High-level recommendations are hoped to come from this, which can shape Bellabeat's marketing strategy. 
+To get to the next level, Sršen knows the importance of utilising available consumer data; asking the marketing analytics team to analyse data of their products. High-level recommendations are hoped to come from this, which can shape Bellabeat's marketing strategy. 
 
 
 ## Ask
@@ -110,7 +110,7 @@ Within these days, users logged onto the app mostly at the start of the day, fol
 
 ![image](https://user-images.githubusercontent.com/70644015/234617798-34afdf96-1dbd-48da-8a29-69befa8fc572.png)
 
-Surprisingly, this usage is consistent throughout the week; users log on more often in the mornings no matter what weekday it is
+This usage is consistent throughout the week; users log on more often in the mornings no matter what weekday it is
 
 ![image](https://user-images.githubusercontent.com/70644015/234619953-ec16dcfc-be5a-4f57-a747-1ba6fbbe597e.png)
 
